@@ -14,5 +14,6 @@ int main (void) {
             printf ("%d\n", i);
         }
     }
+    printf("Test");
     return EXIT_SUCCESS;
 }
